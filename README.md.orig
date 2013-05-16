@@ -1,9 +1,0 @@
-# GetToGit
-
-This is an edit on the server.
-
-<<<<<<< HEAD
-This is a local edit to create a conflict.
-=======
-This is another edit on the server to create a conflict.
->>>>>>> 18cac48c6d7941029d33b6693d17284bb0ba9b01
