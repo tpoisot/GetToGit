@@ -6,7 +6,7 @@ a code, keep backup, and a lot of other cool and useful and productive things.
 It's extremely useful for
 
 i) people working with code
-ii) manuscripts (if you write them in `LaTeX` or `markdown`, which you should)
+ii) people working on manuscripts (if you write them in `LaTeX` or `markdown`, which you should)
 
 Using `git` is really straightforward, *but* require to use the command line.
 During the trainign session, we'll go through the different commands we need to
