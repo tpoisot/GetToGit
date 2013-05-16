@@ -24,7 +24,9 @@ If you want to clone this project (it's formally called a *repository*, or
 *repo* for short), there are two solutions. First, you don't want to
 contribute, you only want to get the content:
 
-   git clone git://github.com/tpoisot/GetToGit.git
+```
+git clone git://github.com/tpoisot/GetToGit.git
+```
 
 This line will create a folder called `GetToGit` in whichever folder you are
 currently into with your terminal. You can then `cd GetToGit` to go into the
@@ -38,7 +40,9 @@ access back.
 
 If everything is fine, you can just type
 
-   git clone https://github.com/tpoisot/GetToGit.git
+```
+git clone https://github.com/tpoisot/GetToGit.git
+```
 
 The only thing that changed is that we access a secure version of the
 repository, so we'll be able to send changes to it.
@@ -53,7 +57,9 @@ Once you have cloned the repo, you can start adding your code/manuscript. Just
 `mv`, `cp`, or drag-and-drop everything in the folder. Now, you can start using
 `git`. To see if anything happened, just type
 
-   git status
+```
+git status
+```
 
 You should see a lot of things going on. Let's walk through them.
 
@@ -62,7 +68,9 @@ You should see a lot of things going on. Let's walk through them.
 The first thing you need to do is to tell `git` which files he should monitor
 for change. The command is relatively simple:
 
-  git add myfile.ext
+```
+git add myfile.ext
+```
 
 Try to do a `git status` immediately after, and see what changed. If you want to
 add a lot of files at once (you just copied your project in the repo), you can
