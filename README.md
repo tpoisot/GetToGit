@@ -1,6 +1,8 @@
 # GetToGit
 
-`git` is a version control system: it lets you control the version of things.
+`git` is a version control system: it lets you control the version of things. It
+also lets you collaborate with other people, track what you have been doing on
+a code, keep backup, and a lot of other cool and useful and productive things.
 It's extremely useful for
 
 i) people working with code
