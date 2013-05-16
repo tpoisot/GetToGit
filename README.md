@@ -1,4 +1,3 @@
-GetToGit
-========
+# GetToGit
 
-Repo for the git training session
+This is an edit on the server.
