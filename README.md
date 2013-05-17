@@ -1,4 +1,4 @@
-# GetToGit
+# GetTo
 fork you!!!!
 
 MODIF
